@@ -12,9 +12,9 @@
 
 ### RAG研究项目
 
-- :fire: Knowledge_base_QA_interface: 本项目是一个基于 大语言模型（LLM） 与 检索增强生成（RAG） 的本地化知识库问答系统。本项目提供RAG所有的功能，包括文件增删改查操作，使用millvus和sqlite来作为数据库。<[https://github.com/DataXujing/tensorrt_deeposrt_yolov5](https://github.com/Keep-Doing-guoguo/Knowledge_base_QA_interface)>
-- :fire: LangChain_multi-round_dialogue_interface: 本项目可以通过调用API KEY大模型来封装自己的接口，并且将聊天记录存放到sqlite中。<[https://github.com/DataXujing/Qt_NCNN_NanoDet](https://github.com/Keep-Doing-guoguo/LangChain_multi-round_dialogue_interface)>
-- :fire: Fortune_Teller_Interface: 本项目可以调用Qwen-VL、Qwen-Chat、Embedding模型来进行手势运气的判断。<[https://github.com/DataXujing/-lanenet-tensorrt](https://github.com/Keep-Doing-guoguo/Fortune_Teller_Interface)>
+- :fire: [Knowledge_base_QA_interface]<[(https://github.com/Keep-Doing-guoguo/Knowledge_base_QA_interface)>: 本项目是一个基于 大语言模型（LLM） 与 检索增强生成（RAG） 的本地化知识库问答系统。本项目提供RAG所有的功能，包括文件增删改查操作，使用millvus和sqlite来作为数据库。
+- :fire: [LangChain_multi-round_dialogue_interface]<(https://github.com/Keep-Doing-guoguo/LangChain_multi-round_dialogue_interface)>: 本项目可以通过调用API KEY大模型来封装自己的接口，并且将聊天记录存放到sqlite中。
+- :fire: [Fortune_Teller_Interface]<(https://github.com/Keep-Doing-guoguo/Fortune_Teller_Interface)>: 本项目可以调用Qwen-VL、Qwen-Chat、Embedding模型来进行手势运气的判断。
 
 ### 微调研究项目
 
