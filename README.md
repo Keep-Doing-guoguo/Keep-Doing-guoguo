@@ -14,11 +14,18 @@
 
 - :fire: [Knowledge_base_QA_interface](https://github.com/Keep-Doing-guoguo/Knowledge_base_QA_interface): 本项目是一个基于 大语言模型（LLM） 与 检索增强生成（RAG） 的本地化知识库问答系统。本项目提供RAG所有的功能，包括文件增删改查操作，使用millvus和sqlite来作为数据库。
 - :fire: [LangChain_multi-round_dialogue_interface](https://github.com/Keep-Doing-guoguo/LangChain_multi-round_dialogue_interface): 本项目可以通过调用API KEY大模型来封装自己的接口，并且将聊天记录存放到sqlite中。
+
+### 自研项目参考
+
 - :fire: [Fortune_Teller_Interface](https://github.com/Keep-Doing-guoguo/Fortune_Teller_Interface): 本项目可以调用Qwen-VL、Qwen-Chat、Embedding模型来进行手势运气的判断。
 
-### 微调研究项目
+### 部分比赛项目请参考
 
+- :fire: [LLM-DAC](https://github.com/Keep-Doing-guoguo/LLM-DAC): 医疗对话场景的意图识别任务。
 
+- :fire: [Bogin-Large-Model-Challenge](https://github.com/Keep-Doing-guoguo/Bogin-Large-Model-Challenge): 本项目目标是： • 输入自然语言问题； • 自动分类为 SQL 问题 或 知识库文本检索问题； • 最终输出自然语言答案。
+
+- :fire: [E-commerce-graphic-text-search](https://github.com/Keep-Doing-guoguo/E-commerce-graphic-text-search): 电商图文检索。
 
 ### 我的技术栈
 
