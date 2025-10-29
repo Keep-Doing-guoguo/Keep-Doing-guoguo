@@ -23,9 +23,16 @@
 
 - :fire: [LLM-DAC](https://github.com/Keep-Doing-guoguo/LLM-DAC): 医疗对话场景的意图识别任务。
 
-- :fire: [Bogin-Large-Model-Challenge](https://github.com/Keep-Doing-guoguo/Bogin-Large-Model-Challenge): 本项目目标是： • 输入自然语言问题； • 自动分类为 SQL 问题 或 知识库文本检索问题； • 最终输出自然语言答案。
+- :fire: [Bogin-Large-Model-Challenge](https://github.com/Keep-Doing-guoguo/Bogin-Large-Model-Challenge): 本项目目标是：
+-  • 输入自然语言问题；
+-  • 自动分类为 SQL 问题 或 知识库文本检索问题；
+-  • 最终输出自然语言答案。
 
 - :fire: [E-commerce-graphic-text-search](https://github.com/Keep-Doing-guoguo/E-commerce-graphic-text-search): 电商图文检索。
+
+- :fire: [Hate_Speech_Quadruple_Extraction](https://github.com/Keep-Doing-guoguo/Hate_Speech_Quadruple_Extraction): 抽取出 仇恨言论四元组。
+  
+- :fire: [Hate_Speech_Quadruple_Extraction](https://github.com/Keep-Doing-guoguo/Hate_Speech_Quadruple_Extraction): 抽取出 仇恨言论四元组。
 
 ### 我的技术栈
 
