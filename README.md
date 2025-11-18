@@ -32,7 +32,7 @@
 
 - :fire: [Hate_Speech_Quadruple_Extraction](https://github.com/Keep-Doing-guoguo/Hate_Speech_Quadruple_Extraction): 抽取出 仇恨言论四元组。
   
-- :fire: [Hate_Speech_Quadruple_Extraction](https://github.com/Keep-Doing-guoguo/Hate_Speech_Quadruple_Extraction): 抽取出 仇恨言论四元组。
+- :fire: [https://github.com/Keep-Doing-guoguo/TCM-Syndrome-and-Disease-Differentiation): 中医辨证辨病及中药处方生成评测。
 
 ### 我的技术栈
 
