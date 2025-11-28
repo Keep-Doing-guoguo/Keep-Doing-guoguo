@@ -1,4 +1,4 @@
-<img width="1427" height="723" alt="image" src="https://github.com/user-attachments/assets/6e563774-134f-4c60-ba88-c5b8532f735f" /><img src="https://github-readme-stats.vercel.app/api?username=Keep-Doing-guoguo&show_icons=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Keep-Doing-guoguo&show_icons=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ### I'm 张国文
 
